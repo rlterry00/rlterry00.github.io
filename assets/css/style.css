@@ -411,6 +411,10 @@ textarea.form-control {
 	padding: 0;
 }
 
+.devicon {
+	font-size: 7rem
+}
+
 /* ---------------------------------------------- /*
  * Skills
 /* ---------------------------------------------- */
@@ -496,7 +500,9 @@ textarea.form-control {
 	   -moz-border-radius: 3px;
 			border-radius: 3px;
 	font-size: 14px;
-	color: rgba(255, 255, 255, .2);
+	/*color: rgba(255, 255, 255, .2);*/
+	color: white;
+
 }
 
 .social-links a:hover {
