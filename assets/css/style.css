@@ -290,7 +290,7 @@ textarea.form-control {
     text-align: center;
 }
 .calltoaction {
-    background: url(../images/item-3.jpg);
+    background: url(../images/person-thinking-clipart-thinking.svg);
 	background-color: #222;
 	background-repeat: no-repeat;
 	background-position: 0 0;
@@ -742,7 +742,7 @@ textarea.form-control {
 .grid figure img {
 	position: relative;
 	display: block;
-	min-height: auto;
+	min-height: 220px;
 	max-width: 100%;
 	opacity: 0.8;
 }
