@@ -489,6 +489,11 @@ padding: 10px 25px 10px 25px;
 cursor: pointer;
 }
 
+.g-recaptcha div { 
+	margin-left: auto; 
+	margin-right: auto;
+	margin-bottom: 20px;
+}
 
 /* ---------------------------------------------- /*
  * Footer
