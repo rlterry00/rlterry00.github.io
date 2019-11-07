@@ -290,7 +290,7 @@ textarea.form-control {
     text-align: center;
 }
 .calltoaction {
-    background: url(../images/person-thinking-clipart-thinking.svg);
+    /* background: url(../images/person-thinking-clipart-thinking.svg); */
 	background-color: #222;
 	background-repeat: no-repeat;
 	background-position: 0 0;
@@ -338,8 +338,8 @@ textarea.form-control {
 /* ---------------------------------------------- */
 
 #home {
-	background: url(../images/IMG_0101.JPG);
-	background-color: #222;
+	background: url(../images/IMG_2879.JPG);
+	background-color: white;
 	background-attachment: fixed;
 	background-repeat: no-repeat;
 	background-position: 50% 50%;
