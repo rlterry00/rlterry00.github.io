@@ -388,6 +388,11 @@ textarea.form-control {
 	margin: 15px 0;
 }
 
+.affiliate {
+	max-width: 100%;
+    height: auto;
+}
+
 /* ---------------------------------------------- /*
  * Servise
 /* ---------------------------------------------- */
@@ -745,6 +750,11 @@ cursor: pointer;
 		font-size: 24px;
 		margin: 0 0 30px;
 		letter-spacing: 3px;
+	}
+
+	.affiliate {
+		max-width: 50%;
+		height: auto;
 	}
 
 }
